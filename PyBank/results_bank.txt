@@ -1,0 +1,5 @@
+Total Months is 86,
+Total is $22564198,
+Average Change is $-8311.11,
+Greatest increase in profits is $(1862002, 'Aug-16'),
+Greatest decrease in profits is $(-1825558, 'Feb-14')
